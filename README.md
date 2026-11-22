@@ -1,4 +1,3 @@
-# gruyere-xss-Demyanik-Nikolay
 # Домашнее задание 8: Scapy + Google Gruyere (XSS)
 Демяник Николай
 
